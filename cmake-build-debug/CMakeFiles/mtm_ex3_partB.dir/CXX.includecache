@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/Auxiliaries.h
+string
+-
+iostream
+-
+ostream
+-
+
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/Matrix.cpp
+Matrix.h
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/Matrix.h
+
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/Matrix.h
+string
+-
+iostream
+-
+Auxiliaries.h
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/Auxiliaries.h
+
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/test_partB.cpp
+iostream
+-
+string
+-
+Matrix.h
+C:/Users/Michael Malul/CLionProjects/mtm_ex3_partB/Matrix.h
+

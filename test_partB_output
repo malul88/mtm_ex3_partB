@@ -1,0 +1,15 @@
+Mtm matrix error: Illegal initialization values
+str1+str1 str1+str1 str1+str1 
+str1+str1 str1+str1 str1+str1 
+Mtm matrix error: Dimension mismatch: (2,3) (3,2)
+1 1 1
+Mtm matrix error: An attempt to access an illegal element
+0 0 0 
+1 1 1 
+0 0 0 
+1 0 0 
+Mtm matrix error: An attempt to access an illegal element
+4 4 4 
+4 4 4 
+16
+Mtm matrix error: An attempt to access an illegal element
